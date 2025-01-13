@@ -8,11 +8,11 @@ from prowler.lib.check.compliance_models import (
     ENS_Requirement_Attribute_Tipos,
     Generic_Compliance_Requirement_Attribute,
     ISO27001_2013_Requirement_Attribute,
+    KISA_ISMSP_Requirement_Attribute,
     Mitre_Requirement,
     Mitre_Requirement_Attribute_AWS,
     Mitre_Requirement_Attribute_Azure,
     Mitre_Requirement_Attribute_GCP,
-    KISA_ISMSP_Requirement_Attribute,
 )
 
 CIS_1_4_AWS_NAME = "cis_1.4_aws"
